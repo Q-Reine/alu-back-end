@@ -25,3 +25,4 @@ if __name__ == "__main__":
     for key, val in serialized_todos.items():
         if val is True:
             print("\t {}".format(key))
+
